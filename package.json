@@ -9,12 +9,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/timzhang1388/dsh-codex-effort-slider.git"
+    "url": "git+https://github.com/ZTOLH/dsh-codex-effort-slider.git"
   },
   "bugs": {
-    "url": "https://github.com/timzhang1388/dsh-codex-effort-slider/issues"
+    "url": "https://github.com/ZTOLH/dsh-codex-effort-slider/issues"
   },
-  "homepage": "https://github.com/timzhang1388/dsh-codex-effort-slider#readme",
+  "homepage": "https://github.com/ZTOLH/dsh-codex-effort-slider#readme",
   "keywords": [
     "dsh",
     "dsh-plugin",
